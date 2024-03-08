@@ -1,0 +1,26 @@
+{
+"name": "fishanimation-lordmixz",
+"version": "1.0.0",
+"description": "This is a simple JavaScript canvas animation that creates a school of swimming fish. The animation utilizes HTML canvas to generate a visually appealing effect of fish swimming across the screen.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/lordmixz/FishAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "lordmixz",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
